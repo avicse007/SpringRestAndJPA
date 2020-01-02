@@ -1,5 +1,7 @@
 # SpringRestAndJPA
 
+## Read Building+a+REST+API+with+Spring.pdf for a warm up 
+
 This repo explains the basic of JPA and SpringRest from a course 
 
 1. http://localhost:8080/tours?size=3&page=1&sort=title,desc
