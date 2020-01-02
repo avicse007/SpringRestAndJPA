@@ -1,4 +1,4 @@
-# SpringRestAndJPA
+# Spring Data Rest with HATEOS And JPA
 
 ## Read Building+a+REST+API+with+Spring.pdf for a warm up 
 
